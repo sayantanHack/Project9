@@ -9,9 +9,9 @@ I am a tech savvy boy. I am very mych interested in different kind of latest tec
 
 # List out some news sites where you could find tech-related news.
 
-I am very much choosy on tech realted lated news. I mainly follow articles in (Medium)[https://medium.com/] . Stil I follow some other tech news site .The list is in bellow.
+I am very much choosy on tech realted lated news. I mainly follow articles in [Medium](https://medium.com/) . Stil I follow some other tech news site .The list is in bellow.
 
-* (News MIT)[http://news.mit.edu/] specially for Machine Learning
-* (Cloud Computing News)[https://www.cloudcomputing-news.net/] for Cloud news.
-* (Cyber Security News)[https://cyware.com/]
-* (Netwoking News)[https://www.networkworld.com/]
+* [News MIT](http://news.mit.edu/) specially for Machine Learning
+* [Cloud Computing News](https://www.cloudcomputing-news.net/) for Cloud news.
+* [Cyber Security News](https://cyware.com/)
+* [Netwoking News](https://www.networkworld.com/)
