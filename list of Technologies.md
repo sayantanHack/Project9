@@ -55,4 +55,5 @@ I am very much choosy on tech realted lated news. I mainly follow articles in [M
 ## Threats
 
 * Without proper preparation of the interview
-* Practiseing the 
+* Practicing the interview questions properly
+* Prepare for each & every opportunity
