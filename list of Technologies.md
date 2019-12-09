@@ -3,6 +3,7 @@ I am a tech savvy boy. I am very mych interested in different kind of latest tec
 
 * Cyber Security
 * Blockchain
+* Web Development
 * Machine Learning 
 * Networking
 * Cloud Computing
@@ -15,5 +16,43 @@ I am very much choosy on tech realted lated news. I mainly follow articles in [M
 * [Cloud Computing News](https://www.cloudcomputing-news.net/) for Cloud news.
 * [Cyber Security News](https://cyware.com/)
 * [Netwoking News](https://www.networkworld.com/)
+* [FreecodeCamp](https://www.freecodecamp.org/)
+* [hackerearth News](https://hackerearth.com/)
 
 # My Twitter Account username - [SayantanHack](https://twitter.com/sayantanHack)
+
+# SWOT Analysis 
+
+## Strengths 
+
+* Fast Learner
+* Motivated
+* Good Communicator
+* Open Thinker
+
+### Skills 
+
+* Web Developer (HTML,CSS,JS, React)
+* Python Developer
+* Cyber Security 
+* Computer Hardware
+* Network Configuration
+* MySQL DB
+
+## Weaknesses 
+
+* Taking too many loads (Effect of Multi tasking)
+* less experience in Backend technology.
+* Not a well organized documenter
+* Not always use comments while coding
+
+## Opportunity
+
+* Got the Openclassrooms course from Facebook Developer Circle.
+* To get Jobs or Internship from Openclassrooms.
+* Learning new things improve career options
+
+## Threats
+
+* Without proper preparation of the interview
+* Practiseing the 
