@@ -57,3 +57,32 @@ I am very much choosy on tech realted lated news. I mainly follow articles in [M
 * Without proper preparation of the interview
 * Practicing the interview questions properly
 * Prepare for each & every opportunity
+
+# My Feedly dashboard -
+
+## My Web feed :
+ 
+ ![Webfeed](https://github.com/sayantanHack/Project9/blob/master/images/feedly.png)
+ 
+ 
+ ## My Linux feed :
+ 
+ ![Linuxfeed](https://github.com/sayantanHack/Project9/blob/master/images/feedlinux.png)
+ 
+ ## My AI feed :
+ 
+ ![AIfeed](https://github.com/sayantanHack/Project9/blob/master/images/feedlyAI.png)
+ 
+ ## My Security feed :
+ 
+ ![Secfeed](https://github.com/sayantanHack/Project9/blob/master/images/feedsecly.png)
+ 
+ ## My Crypto feed :
+ 
+ ![Cryptofeed](https://github.com/sayantanHack/Project9/blob/master/images/feedtecrypto.png)
+ 
+ ## My Tech feed :
+ 
+ ![Techfeed](https://github.com/sayantanHack/Project9/blob/master/images/tecfeedly.png)
+ 
+ 
